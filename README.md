@@ -1,4 +1,4 @@
-# Bonjour, je suis Ghada Mohsen 👋
+# Bonjour, je suis Ghada MOHSEN 👋
 
 ### Développeuse Full-Stack Junior · PHP · Symfony · JavaScript · .NET / C#
 
