@@ -9,7 +9,7 @@ Basée en Île-de-France, je conçois des applications web complètes, de l'inte
 ## Compétences
 
 - **Back-end :** PHP, Symfony, C#, .NET, API REST
-- **Front-end :** JavaScript, HTML5, CSS3, Sass, Bootstrap
+- **Front-end :** JavaScript ES6,JQuery, HTML5, CSS3, Sass, Bootstrap
 - **Données :** MySQL, MongoDB, SQL Server, Doctrine, PDO
 - **Outils :** Git, GitHub, Docker, Postman, Figma, VS Code
 - **Méthodes :** Agile, Scrum, architecture MVC, documentation technique
