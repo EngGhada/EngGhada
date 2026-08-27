@@ -1,15 +1,15 @@
 # Bonjour, je suis Ghada MOHSEN 👋
 
-### Développeuse Full-Stack  · PHP · Symfony · JavaScript · .NET / C#
+### Développeuse Full-Stack  · HTML5 . CSS3 · JavaScript . PHP  · Symfony · .NET / C#
 
 Basée en Île-de-France, je conçois des applications web complètes, de l'interface utilisateur à la base de données. Diplômée en informatique et titulaire du **Titre Professionnel Développeur Web et Web Mobile**, j'apporte également une expérience en développement .NET/C# et en formation informatique.
 
-> Junior Full-Stack Developer building structured, secure and user-focused web applications.
+> Full-Stack Developer building structured, secure and user-focused web applications.
 
 ## Compétences
 
+- **Front-end :**  HTML5, CSS3, JavaScript ES6 , JQuery, Sass, Bootstrap
 - **Back-end :** PHP, Symfony, C#, .NET, API REST
-- **Front-end :** JavaScript ES6 , JQuery, HTML5, CSS3, Sass, Bootstrap
 - **Données :** MySQL, MongoDB, SQL Server, Doctrine, PDO
 - **Outils :** Git, GitHub, Docker, Postman, Figma, VS Code
 - **Méthodes :** Agile, Scrum, architecture MVC, documentation technique
@@ -36,14 +36,14 @@ Chaque dépôt principal contient une présentation claire, les instructions d'i
 
 ## Langues et certifications
 
-- Français : DELF B1 certifié
-- Anglais : professionnel
+- Français : opérationnel — DELF B1 obtenu avec 98,5 %
+- Anglais : B2 — usage professionnel à l'écrit et à l'oral
 - Arabe : langue maternelle
 - [Consulter mes certifications et Open Badges](https://openbadgepassport.com/app/profile/400762)
 
 ## Objectif professionnel
 
-Je recherche une opportunité de **Développeuse Full-Stack Junior** au sein d'une équipe où je pourrai contribuer à des produits utiles, continuer à progresser et mettre à profit mon expérience technique et pédagogique.
+Je recherche une opportunité de **Développeuse web** au sein d'une équipe où je pourrai contribuer à des produits utiles, continuer à progresser et mettre à profit mon expérience technique et pédagogique.
 
 ---
 
