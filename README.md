@@ -1,6 +1,6 @@
 # Bonjour, je suis Ghada MOHSEN 👋
 
-### Développeuse Full-Stack Junior · PHP · Symfony · JavaScript · .NET / C#
+### Développeuse Full-Stack  · PHP · Symfony · JavaScript · .NET / C#
 
 Basée en Île-de-France, je conçois des applications web complètes, de l'interface utilisateur à la base de données. Diplômée en informatique et titulaire du **Titre Professionnel Développeur Web et Web Mobile**, j'apporte également une expérience en développement .NET/C# et en formation informatique.
 
