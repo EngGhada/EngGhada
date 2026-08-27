@@ -18,9 +18,9 @@ Basée en Île-de-France, je conçois des applications web complètes, de l'inte
 
 | Projet | Présentation | Technologies |
 |---|---|---|
-| [Studi E-Commerce](https://github.com/EngGhada/Studi-E-Commerce-V1.0) | Marketplace full-stack avec catalogue, espace membre, panier et administration. | HTML5,CSS3,,Javascript ES6 ,JQuery Bootstrap, PHP, MySQL, MongoDB |
+| [Studi E-Commerce](https://github.com/EngGhada/Studi-E-Commerce-V1.0) | Marketplace full-stack avec catalogue, espace membre, panier et administration. | HTML5 ,CSS3 ,Javascript ES6 , jQuery, Bootstrap, PHP, MySQL, MongoDB |
 | [Quizea](https://github.com/EngGhada/Quizea) | Quiz responsive avec niveaux, minuterie et suivi du score. |  HTML5, CSS3, JavaScript|
-| [Calendrier de l'Avent](https://github.com/EngGhada/Calendrier-) | Expérience interactive avec contenus progressifs et interface responsive. |  HTML5 ,Sass, JavaScript  |
+| [Calendrier de l'Avent](https://github.com/EngGhada/Calendrier-) | Expérience interactive avec contenus progressifs et interface responsive. |  HTML5 , Sass, JavaScript  |
 | [Cuisinea](https://github.com/EngGhada/cuisinea) | Plateforme de partage de recettes avec authentification et téléversement sécurisé d'images. | PHP, MySQL, PDO, Bootstrap |
 | [YourBook](https://github.com/EngGhada/symfony_yourbook) | Application de gestion de bibliothèque construite avec Symfony et une interface d'administration. | Symfony, Doctrine, EasyAdmin |
 | [MOVIZ MVC](https://github.com/EngGhada/MOVIZ_MVC) | Application cinéma organisée selon une architecture MVC, avec comptes et administration. | PHP, MySQL, MongoDB, MVC |
